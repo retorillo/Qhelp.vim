@@ -2,7 +2,7 @@
 
 Quickly prints help section
 
-![](preview.png)
+![image](./preview.gif)
 
 ## Install
 
