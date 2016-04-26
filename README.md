@@ -4,7 +4,7 @@
 
 Vim plugin to quickly glance help section
 
-![preview](preview.png)
+![preview](preview.gif)
 
 ## Install (Pathogen)
 
