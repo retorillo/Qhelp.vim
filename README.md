@@ -1,31 +1,25 @@
 # Qhelp.vim
 
-Quickly prints help section
+[![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-![image](./preview.gif)
+Vim plugin to quickly glance help section
 
-## Install
+![preview](preview.png)
 
-### Pathogen (Linux)
+## Install (Pathogen)
 
 ```vimL
 git clone https://github.com/retorillo/qhelp.vim.git ~/.vim/bundle/qhelp.vim
 ```
 
-### Pathogen (Windows/PowerShell)
-
-```vimL
-git clone https://github.com/retorillo/qhelp.vim.git $home/vimfiles/bundle/qhelp.vim
-```
-
 ## Usage
 
 ```vimL
-:Qhelp[!] {path}
+:Qhelp {helptag}
 ```
 
 ## License
 
-Copyright (C) Retorillo
+Distributed under the MIT license.
 
-Distributed under the terms of the Vim license. See `:help license`
+Copyright (C) 2016 Retorillo
